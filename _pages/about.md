@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-از سال ۹۳ شروع به فعالیت حرفه ایعکاسی صنعتی کردم
+از سال ۹۳ شروع به فعالیت در ضمینه عکاسی صنعتی کردم
