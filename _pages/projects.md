@@ -5,7 +5,7 @@ permalink: /projects/
 description: تعدادی از پروزه های انجام شده
 nav: true
 nav_order: 2
-display_categories: [حرفه ای, عکاس ازاد]
+display_categories: [work, fun]
 horizontal: false
 ---
 
