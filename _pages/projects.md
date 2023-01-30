@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: پروژه ها
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: تعدادی از پروزه های انجام شده
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [حرفه ای, عکاس ازاد]
 horizontal: false
 ---
 
