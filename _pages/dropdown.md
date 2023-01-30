@@ -8,6 +8,6 @@ children:
     - title: publications
       permalink: /publications/
     - title: divider
-    - title: projects
-      permalink: /پروژه ها/
+    - title: پروژه ها
+      permalink: /projects/
 ---
