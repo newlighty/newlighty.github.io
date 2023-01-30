@@ -1,11 +1,11 @@
 ---
 layout: page
-title: submenus
+title: زیر منوها
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
+    - title: انتشارات
       permalink: /publications/
     - title: divider
     - title: پروژه ها
