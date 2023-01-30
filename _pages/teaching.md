@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:اموزش عکاسی پرتره صنعتی 
+description: اموزش عکاسی پرتره صنعتی    
 nav: true
 nav_order: 5
 ---
